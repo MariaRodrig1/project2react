@@ -1,3 +1,6 @@
+Project published here: https://yanyzhang.github.io/project2react/
+Project done by Maria Rodriguez and Yan Zhang
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
